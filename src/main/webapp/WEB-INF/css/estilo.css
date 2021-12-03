@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+div .container{
+	margin-top: 25px;
+}
+
+h2 {
+	font-weight: 500; 
+}
